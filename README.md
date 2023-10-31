@@ -1,21 +1,19 @@
 # Book Store MERN stack project
 
-## Lessons
-
-- [x] Lesson 01: Create Node.js project from scratch
-- [x] Lesson 02: Create our first Http Route
-- [x] Lesson 03: Add MongoDB and mongoose to node js
-- [x] Lesson 04: Create Book model with mongoose
-- [x] Lesson 05: Save a new Book with mongoose
-- [x] Lesson 06: Get All Books with mongoose
-- [x] Lesson 07: Get One Book by id with mongoose
-- [x] Lesson 08: Update a Book with mongoose
-- [x] Lesson 09: Delete a book with mongoose
-- [x] Lesson 10: Refactor Node js with express router
-- [x] Lesson 11: CORS policy in Node js and Express js
-- [x] Lesson 12: Create React project, Vite, Tailwind CSS
-- [x] Lesson 13: SPA and Add react router dom
-- [x] Lesson 14: Show Books List in React
+- [x] Create Node.js project from scratch
+- [x] Create our first Http Route
+- [x] Add MongoDB and mongoose to node js
+- [x] Create Book model with mongoose
+- [x] Save a new Book with mongoose
+- [x] Get All Books with mongoose
+- [x] Get One Book by id with mongoose
+- [x] Update a Book with mongoose
+- [x] Delete a book with mongoose
+- [x] Refactor Node js with express router
+- [x] CORS policy in Node js and Express js
+- [x] Create React project, Vite, Tailwind CSS
+- [x] SPA and Add react router dom
+- [x] Show Books List in React
 - [x] Lesson 15: Show Book Details in React
 - [x] Lesson 16: Create Book in React
 - [x] Lesson 17: Edit Book in React
